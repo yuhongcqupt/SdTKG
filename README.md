@@ -22,5 +22,5 @@ Hong Yu, Meiqi Chen, Ronghua Tian, Yongfang Xie. Exploring Semantic Dependency f
 
 ### **State:**
 
-This work has been submitted to The IEEE International Conference on Data Engineering (ICDE) 2025.
+This work has been submitted to Engineering Applications of Artificial Intelligence.
 
