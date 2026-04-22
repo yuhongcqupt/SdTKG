@@ -18,9 +18,11 @@ Pycharm 2022.3.3 Edition, Intel(R) Core(TM) GoForce RTX 3090 GPU @ 3.00 GHz, 24.
 
 ### **Reference:**
 
-Hong Yu, Meiqi Chen, Ronghua Tian, Yongfang Xie. Exploring Semantic Dependency for Reasoning over Temporal Knowledge Graph.
+Yu, H., Chen, M., Tian, R., Xie, Y. (2026). *Exploring semantic dependency for reasoning over temporal knowledge graph*. Engineering Applications of Artificial Intelligence, 177, 114845. https://doi.org/10.1016/j.engappai.2026.114845.
 
 ### **State:**
 
-This work has been submitted to Engineering Applications of Artificial Intelligence.
+This work has been published in [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence).
+
+
 
